@@ -1,5 +1,5 @@
-def catch_phrase(phrase)
-  puts phrase
+def catch_phrase
+  puts phrase = "It's-a me, Mario!"
 end
 
 def rescue_princess_peach
