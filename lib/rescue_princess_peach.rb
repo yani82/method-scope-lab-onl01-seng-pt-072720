@@ -1,5 +1,5 @@
 def rescue_princess_peach(status = "rescued")
-  catch_phrase = "Hooray! Mario has rescued Princess Peach."
+  def catch_phrase = "Hooray! Mario has rescued Princess Peach."
   puts catch_phrase
 end
 
